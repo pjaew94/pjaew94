@@ -1,9 +1,8 @@
 ### Hello! I'm Jae! 🖐️
 
 - 🔭 I’m currently working on  <strong>Health News Project</strong>.
-- 🌱 I’m currently learning <strong>Typescript, GraphQL, Apollo, and MySQL</strong>.
-- 👯 I’m looking to collaborate on <strong>health related projects</strong>.
-- 🤔 I’m looking for help with <strong>Google Cloud APIs</strong>.
-- 💬 Ask me about <strong>React, Javascript, SCSS, and basketball</strong> 🏀.
-- 📫 How to reach me: <strong>Email: pjaew94@gmail.com</strong>.
+- 🌱 I’m currently learning <strong>Docker, Kubernetes, and GraphQL</strong>.
+- 🤔 I’m looking for help with <strong>Python 3</strong>.
+- 💬 Ask me about <strong>React, Typescript, NextJS, and basketball</strong> 🏀.
+- 📫 How to reach me: <strong>Email: jaewp94@gmail.com</strong>.
 
